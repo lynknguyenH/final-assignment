@@ -1,0 +1,5 @@
+[07-10-2023 23:44:52.838 INFO com.tricentis.demowebshop.helper.Log] - Start
+[07-10-2023 23:44:55.484 INFO com.tricentis.demowebshop.helper.Log] - Row: 7 - Column: 4
+[07-10-2023 23:44:55.570 INFO com.tricentis.demowebshop.helper.Log] - StartRow: 1 - EndRow: 6
+[07-10-2023 23:44:56.188 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm FAILED test ----------
+[07-10-2023 23:44:56.232 INFO com.tricentis.demowebshop.helper.Log] - Finish

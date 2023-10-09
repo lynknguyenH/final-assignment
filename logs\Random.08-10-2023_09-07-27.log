@@ -1,0 +1,4 @@
+[08-10-2023 09:07:27.280 INFO com.tricentis.demowebshop.helper.Log] - Start
+[08-10-2023 09:07:27.354 INFO com.tricentis.demowebshop.helper.Log] - Read test data
+[08-10-2023 09:07:29.321 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm FAILED test ----------
+[08-10-2023 09:07:29.359 INFO com.tricentis.demowebshop.helper.Log] - Finish
