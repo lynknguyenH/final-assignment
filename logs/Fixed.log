@@ -1213,3 +1213,193 @@ Session ID: b14b4a4d86bba3fdb4f8aefe7544da7c
 [09-10-2023 18:43:52.145 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
 [09-10-2023 18:43:52.146 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
 [09-10-2023 18:43:53.388 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 21:00:56.531 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 21:00:56.871 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 21:01:15.739 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 21:01:15.830 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 21:01:15.920 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 21:01:47.711 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 21:01:47.738 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 21:01:47.739 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 21:01:47.740 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 21:01:49.365 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 21:04:52.351 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 21:04:52.463 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 21:05:04.546 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 21:05:04.627 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 21:05:04.682 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 21:05:36.175 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 21:05:36.186 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 21:05:36.187 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 21:05:36.188 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 21:05:37.590 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 21:14:55.339 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 21:14:55.470 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 21:15:07.532 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 21:15:07.623 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 21:15:07.658 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 21:15:38.918 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 21:15:38.930 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 21:15:38.932 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 21:15:38.933 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 21:15:40.279 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:15:21.675 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:15:21.793 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:15:36.699 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:15:36.814 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:15:36.855 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:16:08.146 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:16:08.162 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:16:08.163 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:16:08.165 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:16:09.575 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:17:52.296 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:17:52.430 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:18:03.768 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:18:03.830 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:18:03.858 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:18:35.112 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:18:35.123 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:18:35.126 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:18:35.127 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:18:36.492 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:19:31.241 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:19:31.375 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:19:41.497 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:19:41.593 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:19:41.621 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:19:43.650 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:19:43.671 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:19:43.682 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:19:43.684 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:19:45.050 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:37:37.871 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:37:37.992 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:37:50.462 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:37:50.535 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:37:50.567 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:37:52.658 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:37:52.674 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:37:52.686 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:37:52.691 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:37:54.114 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:38:50.004 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:38:50.158 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:39:01.159 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:39:01.280 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:39:01.311 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:39:03.599 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:39:03.609 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:39:03.610 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:39:03.611 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:39:04.983 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:43:24.463 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:43:24.662 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:43:36.564 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:43:36.657 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:43:36.699 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:43:39.383 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:43:39.394 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:43:39.396 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:43:39.397 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:43:41.048 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:46:38.228 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:46:38.358 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:46:47.911 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:46:47.974 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:46:48.070 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:46:50.476 INFO com.tricentis.demowebshop.helper.Log] - List of product added to cart: [Computing and Internet, Computing and Internet]
+[09-10-2023 22:46:50.477 INFO com.tricentis.demowebshop.helper.Log] - List of product in the cart: [Computing and Internet]
+[09-10-2023 22:46:50.493 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:46:50.504 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:46:50.504 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:46:50.505 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:46:51.891 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:50:09.969 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:50:10.100 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:50:21.032 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:50:21.098 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:50:21.128 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:50:23.750 INFO com.tricentis.demowebshop.helper.Log] - List of product added to cart: [Computing and Internet, Computing and Internet]
+[09-10-2023 22:50:23.751 INFO com.tricentis.demowebshop.helper.Log] - List of product in the cart: [, ]
+[09-10-2023 22:50:23.767 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:50:23.778 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:50:23.779 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:50:23.780 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:50:25.108 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 22:51:25.696 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:51:25.887 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:51:36.827 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:51:36.969 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:51:37.017 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:51:39.961 INFO com.tricentis.demowebshop.helper.Log] - List of product added to cart: [Computing and Internet, Computing and Internet]
+[09-10-2023 22:51:39.963 INFO com.tricentis.demowebshop.helper.Log] - List of product in the cart: [, ]
+[09-10-2023 22:51:49.986 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:51:49.997 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:51:49.998 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:51:49.999 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:51:51.316 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 23:21:49.084 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 23:21:49.220 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 23:22:00.624 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 23:22:00.739 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 23:22:00.766 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 23:22:04.034 INFO com.tricentis.demowebshop.helper.Log] - List of product added to cart: [Computing and Internet, Computing and Internet]
+[09-10-2023 23:22:04.036 INFO com.tricentis.demowebshop.helper.Log] - List of product in the cart: [, ]
+[09-10-2023 23:22:14.061 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 23:22:14.071 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 23:22:14.072 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 23:22:14.073 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 23:22:15.490 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 23:27:55.462 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 23:27:55.715 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 23:28:06.250 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 23:28:06.440 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 23:28:06.476 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 23:28:07.488 INFO com.tricentis.demowebshop.helper.Log] - List rating: [59, 59, 59]
+[09-10-2023 23:28:08.805 INFO com.tricentis.demowebshop.helper.Log] - List product in cart: [Computing and Internet]
+[09-10-2023 23:28:08.807 INFO com.tricentis.demowebshop.helper.Log] - List of product added to cart: [Computing and Internet, Computing and Internet]
+[09-10-2023 23:28:08.807 INFO com.tricentis.demowebshop.helper.Log] - List of product in the cart: [Computing and Internet]
+[09-10-2023 23:28:18.836 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 23:28:18.846 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 23:28:18.850 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 23:28:18.851 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 23:28:20.196 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 23:37:10.526 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 23:37:10.643 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 23:37:21.049 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 23:37:21.157 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 23:37:21.185 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 23:37:22.637 INFO com.tricentis.demowebshop.helper.Log] - List rating: [59, 59, 59]
+[09-10-2023 23:37:24.021 INFO com.tricentis.demowebshop.helper.Log] - List product in cart: [, ]
+[09-10-2023 23:37:24.022 INFO com.tricentis.demowebshop.helper.Log] - List of product added to cart: [Computing and Internet, Computing and Internet]
+[09-10-2023 23:37:24.022 INFO com.tricentis.demowebshop.helper.Log] - List of product in the cart: [, ]
+[09-10-2023 23:37:34.045 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 23:37:34.067 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 23:37:34.069 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 23:37:34.070 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 23:37:35.411 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 23:44:27.204 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 23:44:27.319 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 23:44:36.982 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 23:44:37.115 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 23:44:37.148 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 23:44:38.378 INFO com.tricentis.demowebshop.helper.Log] - List rating: [59, 59, 59]
+[09-10-2023 23:44:39.791 INFO com.tricentis.demowebshop.helper.Log] - List product in cart: [, ]
+[09-10-2023 23:44:39.792 INFO com.tricentis.demowebshop.helper.Log] - List of product added to cart: [Computing and Internet, Computing and Internet]
+[09-10-2023 23:44:39.793 INFO com.tricentis.demowebshop.helper.Log] - List of product in the cart: [, ]
+[09-10-2023 23:44:49.815 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 23:44:49.825 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 23:44:49.826 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 23:44:49.830 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 23:44:51.136 INFO com.tricentis.demowebshop.helper.Log] - Finish
+[09-10-2023 23:45:43.180 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 23:45:43.352 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 23:45:53.830 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 23:45:53.901 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 23:45:53.925 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 23:45:55.029 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 23:45:55.049 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 23:45:55.055 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 23:45:55.057 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 23:45:56.463 INFO com.tricentis.demowebshop.helper.Log] - Finish

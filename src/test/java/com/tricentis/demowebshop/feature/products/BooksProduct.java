@@ -23,6 +23,7 @@ import java.util.List;
 public class BooksProduct extends BaseTest {
 
     private WebDriver driver;
+    private String expectedMessage = "The product has been added to your shopping cart";
     @BeforeMethod(alwaysRun = true)
     @Parameters({"browser"})
     public void setUp(@Optional("CHROME") String browser) {
@@ -35,14 +36,12 @@ public class BooksProduct extends BaseTest {
         homePage.verifyTitle(driver,"Demo Web Shop");
         ProductListPageObject productListPage = homePage.clickBookTopMenuLink();
         productListPage.verifyTitle(driver,"Demo Web Shop. Books");
-        List<String> product = productListPage.getProductListCanAddToCart();
-        productListPage.addProductToCart(product.get(1));
-        productListPage.verifyMessage("The product has been added to your shopping cart");
+        List<String> addedProducts = productListPage.addProductToCart(expectedMessage);
         productListPage.hoverOverShoppingCart();
-        productListPage.verifyNumberOfItems("1 item(s)");
-        productListPage.addProductToCart(product.get(2));
-        productListPage.verifyMessage("The product has been added to your shopping cart");
-        productListPage.hoverOverShoppingCart();
-        productListPage.verifyNumberOfItems("2 item(s)");
+        List<String> productsInCart = productListPage.getProductListInCart();
+        Log.allure("List product in cart: " +productsInCart);
+        boolean isProductAdded = productListPage.verifyProductAddedToCart(addedProducts,productsInCart);
+        productListPage.sleepInSecond(10);
+        Assert.assertTrue(isProductAdded);
     }
 }

@@ -1,10 +1,12 @@
 package com.tricentis.demowebshop.pageobject;
 
 import com.tricentis.demowebshop.common.BasePage;
+import com.tricentis.demowebshop.helper.Log;
 import com.tricentis.demowebshop.interfaces.ProductListPageUI;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
+import org.testng.asserts.SoftAssert;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -17,43 +19,72 @@ public class ProductListPageObject extends BasePage {
         this.driver = driver;
     }
 
-    private List<String> getProductListWithRating() {
-        List<WebElement> elements = getListWebElements(driver, ProductListPageUI.ALL_PRODUCT_HAVE_RATING);
+    public List<String> getProductListWithSortedRating() {
+        List<WebElement> addToCartElements = getListWebElements(driver, ProductListPageUI.ADDTOCART_BTN);
+        List<WebElement> ratingElements = new ArrayList<>();
+        for (int i = 0; i < addToCartElements.size(); i++) {
+            ratingElements.add(getWebElement(driver,ProductListPageUI.RATING_DYNAMIC, String.valueOf(i+1)));
+        }
         List<String> productListRating = new ArrayList<>();
-        for (WebElement element : elements) {
-            String rating = element.getAttribute("style");
-            String ratePercent = rating.substring(7, 8);
+        for (int i = 0; i < addToCartElements.size(); i++) {
+            String rating = ratingElements.get(i).getAttribute("style");
+            String ratePercent = rating.substring(7, 9);
             productListRating.add(ratePercent);
         }
+        Collections.sort(productListRating);
         return productListRating;
     }
 
-    public List<String> getProductListCanAddToCart() {
-        List<String> ratingList = getProductListWithRating();
-        List<String> productCanAddToCard = new ArrayList<>();
-        for (String ratePercent : ratingList) {
-            boolean isAddToCardDisplayed = isElementDisplay(driver, ProductListPageUI.ADDTOCARD_DYNAMIC_BTN, ratePercent);
-            if (isAddToCardDisplayed) {
-                productCanAddToCard.add(ratePercent);
-            }
+    public List<String> getProductNameList(int number){
+        List<String> productCanAddToCard = getProductListWithSortedRating();
+        List<String> productNameList = new ArrayList<>();
+        for (int i = 0; i<number ; i++){
+            productNameList.add(getTextElement(driver,ProductListPageUI.PRODUCTNAME_DYNAMIC,productCanAddToCard.get(i)));
         }
-        Collections.sort(productCanAddToCard);
-        return productCanAddToCard;
+        return productNameList;
+    }
+    public List<String> getProductListInCart(){
+        List<WebElement> listElement = getListWebElements(driver,ProductListPageUI.PRODUCTINCART);
+        List<String> productNameList = new ArrayList<>();
+        for (int i = 0; i<listElement.size() ; i++){
+            productNameList.add(listElement.get(i).getText());
+        }
+        Collections.sort(productNameList);
+        return productNameList;
     }
 
-    public void addProductToCart(String ratePercent) {
-        clickToElement(driver, ProductListPageUI.ADDTOCARD_DYNAMIC_BTN, ratePercent);
+    public List<String> addProductToCart(String expectedMessage) {
+        List<String> productCanAddToCard = getProductListWithSortedRating();
+        Log.allure("List rating: " +productCanAddToCard.toString());
+        List<String> productAddedToCard = new ArrayList<>();
+        for (int i = 0; i<2 ; i++){
+            productAddedToCard.add(getTextElement(driver,ProductListPageUI.PRODUCTNAME_DYNAMIC,productCanAddToCard.get(i)));
+            clickToElement(driver, ProductListPageUI.ADDTOCARD_DYNAMIC_BTN, productCanAddToCard.get(i), String.valueOf(i+1));
+            verifyMessage(expectedMessage);
+            hoverOverShoppingCart();
+            verifyNumberOfItems((i+1) + " item(s)");
+        }
+        Collections.sort(productAddedToCard);
+        return productAddedToCard;
     }
 
+    public boolean verifyProductAddedToCart(List<String> list1,List<String> list2){
+        Log.allure("List of product added to cart: " +list1.toString());
+        Log.allure("List of product in the cart: " +list2.toString());
+        if(list1.equals(list2)){
+            return true;
+        }else
+            return false;
+    }
 
     public void verifyMessage(String expectedMessage){
-        String actualMessage = getTextElement(driver,ProductListPageUI.ADDTOCARD_MESSAGE1) +" "+
-                getTextElement(driver,ProductListPageUI.ADDTOCARD_MESSAGE2);
+        String actualMessage = getTextElement(driver,ProductListPageUI.ADDTOCART_MESSAGE1);
         Assert.assertEquals(actualMessage,expectedMessage);
     }
 
     public void verifyNumberOfItems(String expectedItem){
-        Assert.assertEquals(getTextElement(driver,ProductListPageUI.ITEMNUMBER_LBL),expectedItem);
+        SoftAssert softAssert = new SoftAssert();
+        softAssert.assertEquals(getTextElement(driver,ProductListPageUI.ITEMNUMBER_LBL),expectedItem);
     }
 
     public void hoverOverShoppingCart(){

@@ -1,0 +1,12 @@
+[09-10-2023 22:50:09.969 INFO com.tricentis.demowebshop.helper.Log] - Start
+[09-10-2023 22:50:10.100 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[09-10-2023 22:50:21.032 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[09-10-2023 22:50:21.098 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[09-10-2023 22:50:21.128 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[09-10-2023 22:50:23.750 INFO com.tricentis.demowebshop.helper.Log] - List of product added to cart: [Computing and Internet, Computing and Internet]
+[09-10-2023 22:50:23.751 INFO com.tricentis.demowebshop.helper.Log] - List of product in the cart: [, ]
+[09-10-2023 22:50:23.767 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[09-10-2023 22:50:23.778 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[09-10-2023 22:50:23.779 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[09-10-2023 22:50:23.780 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[09-10-2023 22:50:25.108 INFO com.tricentis.demowebshop.helper.Log] - Finish

@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f1ca32-c4e4-4853-ba5b-24ba82d2d009" name="Changes" comment="" />
+    <list default="true" id="74f1ca32-c4e4-4853-ba5b-24ba82d2d009" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSuites/BooksProduct.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/Fixed.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/Fixed.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/interfaces/ProductListPageUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/interfaces/ProductListPageUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ProductListPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ProductListPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BooksProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BooksProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/ProductListPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/ProductListPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ProductListPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ProductListPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/BooksProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/BooksProduct.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +37,11 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11 (2)" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2WOYq7bRdemll8K23ZKMJemXKaW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,25 +51,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/linhnguyen/Documents/Programming/final-assignment/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "onboarding.tips.debug.path": "/Users/linhnguyen/Documents/Programming/final-assignment/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/Login.xml">
+  <component name="RunManager" selected="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml">
     <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="final-assignment" />
       <extension name="coverage">
@@ -66,6 +81,16 @@
       <option name="PACKAGE_NAME" value="com.tricentis.demowebshop.feature.login" />
       <option name="MAIN_CLASS_NAME" value="com.tricentis.demowebshop.feature.login.Login" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="final-assignment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/BooksProduct.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -94,11 +119,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" />
       <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/Login.xml" />
       <item itemvalue="TestNG.Login" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" />
         <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/Login.xml" />
         <item itemvalue="TestNG.Login" />
       </list>
