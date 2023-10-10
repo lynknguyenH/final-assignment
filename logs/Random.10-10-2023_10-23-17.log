@@ -1,0 +1,11 @@
+[10-10-2023 10:23:17.631 INFO com.tricentis.demowebshop.helper.Log] - Start
+[10-10-2023 10:23:17.735 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[10-10-2023 10:23:23.486 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[10-10-2023 10:23:23.573 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[10-10-2023 10:23:23.593 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[10-10-2023 10:23:24.324 INFO com.tricentis.demowebshop.helper.Log] - List rating: [49, 55, 59]
+[10-10-2023 10:23:30.728 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[10-10-2023 10:23:30.739 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[10-10-2023 10:23:30.741 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[10-10-2023 10:23:30.742 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[10-10-2023 10:23:31.729 INFO com.tricentis.demowebshop.helper.Log] - Finish

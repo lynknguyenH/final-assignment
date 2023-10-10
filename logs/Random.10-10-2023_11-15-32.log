@@ -1,0 +1,14 @@
+[10-10-2023 11:15:32.629 INFO com.tricentis.demowebshop.helper.Log] - Start
+[10-10-2023 11:15:32.748 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[10-10-2023 11:15:39.364 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[10-10-2023 11:15:39.420 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[10-10-2023 11:15:39.435 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[10-10-2023 11:15:40.158 INFO com.tricentis.demowebshop.helper.Log] - List rating: [59, 55, 49]
+[10-10-2023 11:15:50.416 INFO com.tricentis.demowebshop.helper.Log] - List of product was added to cart: [Computing and Internet, Health Book]
+[10-10-2023 11:15:50.621 INFO com.tricentis.demowebshop.helper.Log] - List product in cart: [Computing and Internet, Health Book]
+[10-10-2023 11:16:00.633 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[10-10-2023 11:16:00.633 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard pass test ----------
+[10-10-2023 11:16:00.634 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[10-10-2023 11:16:00.635 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[10-10-2023 11:16:00.636 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[10-10-2023 11:16:01.661 INFO com.tricentis.demowebshop.helper.Log] - Finish
