@@ -10,6 +10,7 @@ import org.testng.Assert;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Random;
 
 public class ProductListPageObject extends BasePage {
     private final WebDriver driver;
@@ -41,7 +42,16 @@ public class ProductListPageObject extends BasePage {
         return productNameList;
     }
 
-    public List<String> addProductToCart(String expectedMessage) {
+    public List<String> getProductNameList(){
+        List<String> productCanAddToCard = getProductListWithSortedRating();
+        List<String> productNameList = new ArrayList<>();
+        for (String s : productCanAddToCard) {
+            productNameList.add(getTextElement(driver, ProductListPageUI.PRODUCTNAME_DYNAMIC, s));
+        }
+        return productNameList;
+    }
+
+    public List<String> addHighestRatingProductToCart(String expectedMessage) {
         List<String> productCanAddToCard = getProductListWithSortedRating();
         List<String> productAddedToCard = new ArrayList<>();
         for (int i = 0; i<2 ; i++){
@@ -55,15 +65,6 @@ public class ProductListPageObject extends BasePage {
         }
         Collections.sort(productAddedToCard);
         return productAddedToCard;
-    }
-
-    public List<String> getProductNameList(){
-        List<String> productCanAddToCard = getProductListWithSortedRating();
-        List<String> productNameList = new ArrayList<>();
-        for (String s : productCanAddToCard) {
-            productNameList.add(getTextElement(driver, ProductListPageUI.PRODUCTNAME_DYNAMIC, s));
-        }
-        return productNameList;
     }
 
     public void addSpecificProductToCart(String expectedMessage, String productName) {
@@ -80,6 +81,20 @@ public class ProductListPageObject extends BasePage {
                 }
             }
         }
+    }
+
+    public  String addRandomProductToCard(String expectedMessage ){
+        List<String> ratingList= getProductListWithSortedRating();
+        Log.allure("list product: " + ratingList.toString());
+        Random random = new Random();
+        int randIndex = random.nextInt(ratingList.size());
+        String rating = ratingList.get(randIndex);
+        clickToElement(driver,ProductListPageUI.ADDTOCARD_DYNAMIC_BTN,rating,"1");
+        waitForElementInvisible(driver,ProductListPageUI.LOADING_IMAGE);
+        verifyMessage(expectedMessage);
+        waitForElementInvisible(driver,ProductListPageUI.ADDTOCART_MESSAGE1);
+        verifyNumberOfItems( "1 item(s)");
+        return getTextElement(driver, ProductListPageUI.PRODUCTNAME_DYNAMIC, rating);
     }
 
     public boolean verifyProductAddedToCart(List<String> list1,List<String> list2){

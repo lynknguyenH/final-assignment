@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Login">
+    <test name="Login test">
+        <classes>
+            <class name="com.tricentis.demowebshop.feature.products.CheckOut">
+                <parameter name="browser" value="CHROME"></parameter>
+                <methods>
+                    <include name="checkOutSuccessfully"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

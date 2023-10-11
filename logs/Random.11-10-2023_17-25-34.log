@@ -1,0 +1,15 @@
+[11-10-2023 17:25:34.895 INFO com.tricentis.demowebshop.helper.Log] - Start
+[11-10-2023 17:25:35.035 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 17:25:40.762 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 17:25:40.797 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 17:25:40.812 INFO com.tricentis.demowebshop.helper.Log] - Click on Digital Download on top menu
+[11-10-2023 17:25:41.525 INFO com.tricentis.demowebshop.helper.Log] - list product: [45, 44, 40]
+[11-10-2023 17:25:42.867 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 17:25:47.560 INFO com.tricentis.demowebshop.helper.Log] - Click on Checkout Button
+[11-10-2023 17:25:48.450 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[11-10-2023 17:25:49.620 INFO com.tricentis.demowebshop.helper.Log] - Enter information for Billing Address
+[11-10-2023 17:25:51.978 INFO com.tricentis.demowebshop.helper.Log] - ---------- checkOutSuccessfully FAILED test ----------
+[11-10-2023 17:25:51.985 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 17:25:51.986 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[11-10-2023 17:25:51.987 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[11-10-2023 17:25:53.000 INFO com.tricentis.demowebshop.helper.Log] - Finish

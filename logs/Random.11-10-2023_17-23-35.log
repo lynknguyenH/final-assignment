@@ -1,0 +1,10 @@
+[11-10-2023 17:23:35.190 INFO com.tricentis.demowebshop.helper.Log] - Start
+[11-10-2023 17:23:35.312 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 17:23:41.534 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 17:23:41.582 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 17:23:41.726 INFO com.tricentis.demowebshop.helper.Log] - list product: [64, 57, 51, 50, 49, 43]
+[11-10-2023 17:24:13.659 INFO com.tricentis.demowebshop.helper.Log] - ---------- checkOutSuccessfully FAILED test ----------
+[11-10-2023 17:24:13.672 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 17:24:13.673 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[11-10-2023 17:24:13.674 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[11-10-2023 17:24:14.668 INFO com.tricentis.demowebshop.helper.Log] - Finish
