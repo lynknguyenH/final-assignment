@@ -37,7 +37,7 @@ public class BooksProduct extends BaseTest {
         ProductListPageObject productListPage = homePage.clickBookTopMenuLink();
         productListPage.verifyTitle(driver,"Demo Web Shop. Books");
         List<String> addedProducts = productListPage.addProductToCart(expectedMessage);
-        productListPage.hoverOverShoppingCart();
+        Log.allure("List of product was added to cart: " +addedProducts);
         List<String> productsInCart = productListPage.getProductListInCart();
         Log.allure("List product in cart: " +productsInCart);
         boolean isProductAdded = productListPage.verifyProductAddedToCart(addedProducts,productsInCart);

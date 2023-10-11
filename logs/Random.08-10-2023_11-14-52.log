@@ -1,0 +1,74 @@
+[08-10-2023 11:14:52.883 INFO com.tricentis.demowebshop.helper.Log] - Start
+[08-10-2023 11:14:52.941 INFO com.tricentis.demowebshop.helper.Log] - Read test data
+[08-10-2023 11:14:54.577 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[08-10-2023 11:15:06.675 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[08-10-2023 11:15:06.733 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[08-10-2023 11:15:06.775 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[08-10-2023 11:15:07.596 INFO com.tricentis.demowebshop.helper.Log] - enter Email null and Password null
+[08-10-2023 11:15:07.713 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm FAILED test ----------
+[08-10-2023 11:15:07.725 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[08-10-2023 11:15:07.734 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[08-10-2023 11:15:07.737 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[08-10-2023 11:15:09.076 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[08-10-2023 11:15:17.187 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[08-10-2023 11:15:17.205 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[08-10-2023 11:15:17.248 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[08-10-2023 11:15:18.060 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password Abcd@1234
+[08-10-2023 11:15:50.000 INFO com.tricentis.demowebshop.helper.Log] - Login successfully
+[08-10-2023 11:15:50.006 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[08-10-2023 11:15:50.007 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[08-10-2023 11:15:50.009 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[08-10-2023 11:15:50.011 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[08-10-2023 11:15:50.012 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[08-10-2023 11:15:51.283 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[08-10-2023 11:15:59.175 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[08-10-2023 11:15:59.190 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[08-10-2023 11:15:59.201 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[08-10-2023 11:16:00.040 INFO com.tricentis.demowebshop.helper.Log] - enter Email  and Password Abcd@1234
+[08-10-2023 11:16:01.143 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[08-10-2023 11:16:01.143 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[08-10-2023 11:16:01.148 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[08-10-2023 11:16:01.150 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[08-10-2023 11:16:01.151 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[08-10-2023 11:16:02.393 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[08-10-2023 11:16:10.965 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[08-10-2023 11:16:10.978 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[08-10-2023 11:16:10.989 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[08-10-2023 11:16:11.754 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password 
+[08-10-2023 11:16:12.754 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[08-10-2023 11:16:12.754 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[08-10-2023 11:16:12.759 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[08-10-2023 11:16:12.761 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[08-10-2023 11:16:12.765 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[08-10-2023 11:16:14.004 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[08-10-2023 11:16:21.938 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[08-10-2023 11:16:21.954 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[08-10-2023 11:16:21.962 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[08-10-2023 11:16:22.753 INFO com.tricentis.demowebshop.helper.Log] - enter Email  and Password 
+[08-10-2023 11:16:23.648 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[08-10-2023 11:16:23.648 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[08-10-2023 11:16:23.650 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[08-10-2023 11:16:23.651 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[08-10-2023 11:16:23.651 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[08-10-2023 11:16:24.889 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[08-10-2023 11:16:32.921 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[08-10-2023 11:16:32.934 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[08-10-2023 11:16:32.947 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[08-10-2023 11:16:33.730 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password 123456
+[08-10-2023 11:16:34.806 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[08-10-2023 11:16:34.806 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[08-10-2023 11:16:34.808 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[08-10-2023 11:16:34.809 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[08-10-2023 11:16:34.809 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[08-10-2023 11:16:36.083 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[08-10-2023 11:16:44.430 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[08-10-2023 11:16:44.448 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[08-10-2023 11:16:44.495 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[08-10-2023 11:16:45.229 INFO com.tricentis.demowebshop.helper.Log] - enter Email 123456 and Password Abcd@1234
+[08-10-2023 11:17:15.713 INFO com.tricentis.demowebshop.helper.Log] - Login successfully
+[08-10-2023 11:17:15.715 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[08-10-2023 11:17:15.715 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[08-10-2023 11:17:15.717 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[08-10-2023 11:17:15.717 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[08-10-2023 11:17:15.718 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[08-10-2023 11:17:17.019 INFO com.tricentis.demowebshop.helper.Log] - Finish

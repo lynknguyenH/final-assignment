@@ -349,7 +349,7 @@ public class BasePage {
 
     public void hoverMouseToElement(WebDriver driver, String locator) {
         action = new Actions(driver);
-        action.moveToElement(getWebElement(driver, locator)).perform();
+        action.moveToElement(getWebElement(driver, locator)).build().perform();
     }
 
     public void hoverMouseToElement(WebDriver driver, String locator, String... params) {
@@ -402,6 +402,10 @@ public class BasePage {
     public void scrollToBottomPage(WebDriver driver) {
         jsExecutor = (JavascriptExecutor) driver;
         jsExecutor.executeScript("window.scrollBy(0,document.body.scrollHeight)");
+    }
+    public void scrollToTopPage(WebDriver driver) {
+        jsExecutor = (JavascriptExecutor) driver;
+        jsExecutor.executeScript("window.scrollBy(0,0)");
     }
 
     public void navigateToUrlByJS(WebDriver driver, String url) {

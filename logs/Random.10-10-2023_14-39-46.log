@@ -1,0 +1,14 @@
+[10-10-2023 14:39:47.004 INFO com.tricentis.demowebshop.helper.Log] - Start
+[10-10-2023 14:39:47.137 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[10-10-2023 14:39:53.497 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[10-10-2023 14:39:53.557 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[10-10-2023 14:39:55.100 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[10-10-2023 14:39:59.206 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 1
+[10-10-2023 14:39:59.825 INFO com.tricentis.demowebshop.helper.Log] - Number of Items in cart 1
+[10-10-2023 14:39:59.826 INFO com.tricentis.demowebshop.helper.Log] - Take one item out of the cart
+[10-10-2023 14:40:00.598 INFO com.tricentis.demowebshop.helper.Log] - Number of Items in cart after take out one item 2
+[10-10-2023 14:40:00.620 INFO com.tricentis.demowebshop.helper.Log] - ---------- decreaseItemsOfShoppingCart FAILED test ----------
+[10-10-2023 14:40:00.638 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[10-10-2023 14:40:00.641 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[10-10-2023 14:40:00.643 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[10-10-2023 14:40:01.527 INFO com.tricentis.demowebshop.helper.Log] - Finish

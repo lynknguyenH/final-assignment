@@ -1,0 +1,9 @@
+[10-10-2023 14:14:24.248 INFO com.tricentis.demowebshop.helper.Log] - Start
+[10-10-2023 14:14:24.530 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[10-10-2023 14:14:32.617 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[10-10-2023 14:14:32.685 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[10-10-2023 14:15:05.384 INFO com.tricentis.demowebshop.helper.Log] - ---------- decreaseItemsOfShoppingCart FAILED test ----------
+[10-10-2023 14:15:05.403 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[10-10-2023 14:15:05.405 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[10-10-2023 14:15:05.407 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[10-10-2023 14:15:06.338 INFO com.tricentis.demowebshop.helper.Log] - Finish

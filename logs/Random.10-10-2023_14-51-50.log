@@ -1,0 +1,19 @@
+[10-10-2023 14:51:51.118 INFO com.tricentis.demowebshop.helper.Log] - Start
+[10-10-2023 14:51:51.244 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[10-10-2023 14:51:57.330 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[10-10-2023 14:51:57.390 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[10-10-2023 14:51:58.975 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[10-10-2023 14:52:03.088 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 1
+[10-10-2023 14:52:04.378 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[10-10-2023 14:52:07.926 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 2
+[10-10-2023 14:52:09.142 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[10-10-2023 14:52:13.113 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 3
+[10-10-2023 14:52:15.073 INFO com.tricentis.demowebshop.helper.Log] - Number of Items in cart 3
+[10-10-2023 14:52:15.074 INFO com.tricentis.demowebshop.helper.Log] - Take one item out of the cart
+[10-10-2023 14:52:17.214 INFO com.tricentis.demowebshop.helper.Log] - Number of Items in cart after take out one item 2
+[10-10-2023 14:52:17.224 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[10-10-2023 14:52:17.225 INFO com.tricentis.demowebshop.helper.Log] - ---------- decreaseItemsOfShoppingCart pass test ----------
+[10-10-2023 14:52:17.227 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[10-10-2023 14:52:17.228 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[10-10-2023 14:52:17.229 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[10-10-2023 14:52:18.261 INFO com.tricentis.demowebshop.helper.Log] - Finish
