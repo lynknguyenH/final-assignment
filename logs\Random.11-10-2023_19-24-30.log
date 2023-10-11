@@ -1,0 +1,17 @@
+[11-10-2023 19:24:30.410 INFO com.tricentis.demowebshop.helper.Log] - Start
+[11-10-2023 19:24:30.588 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:25:11.301 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:25:11.450 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:25:11.485 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[11-10-2023 19:25:15.580 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 19:25:19.186 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 1
+[11-10-2023 19:25:20.657 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 19:25:24.269 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 2
+[11-10-2023 19:25:24.271 INFO com.tricentis.demowebshop.helper.Log] - List of product was added to cart: [Computing and Internet, Health Book]
+[11-10-2023 19:25:24.506 INFO com.tricentis.demowebshop.helper.Log] - List product in cart: [Computing and Internet, Health Book]
+[11-10-2023 19:25:34.540 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:25:34.541 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard pass test ----------
+[11-10-2023 19:25:34.545 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:25:34.546 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:25:34.551 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:25:36.047 INFO com.tricentis.demowebshop.helper.Log] - Finish

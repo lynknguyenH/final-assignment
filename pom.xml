@@ -84,7 +84,7 @@
             <version>2.18.1</version>
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>src/test/resources/AllTestSuite.xml</suiteXmlFile>
+                    <suiteXmlFile>src/test/resources/TestSuites/AllTestSuite.xml</suiteXmlFile>
                 </suiteXmlFiles>
                 <argLine>
                     -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar"

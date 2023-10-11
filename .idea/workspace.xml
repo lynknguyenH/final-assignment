@@ -5,39 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74f1ca32-c4e4-4853-ba5b-24ba82d2d009" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-13-21.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-16-53.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-23-35.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-25-34.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-28-08.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-30-09.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-46-10.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-47-13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-54-09.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-55-28.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-56-30.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-57-40.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_17-59-14.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Random.11-10-2023_18-00-54.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/interfaces/CheckOutPageUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/interfaces/WelcomeSignInPageUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/CheckOutPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/WelcomeSignInPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BuyItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/CheckOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSuites/CheckOut.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/Fixed.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/Fixed.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/interfaces/ShoppingCartPageUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/interfaces/ShoppingCartPageUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ProductListPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ProductListPageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ShoppingCartPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ShoppingCartPageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BooksProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BooksProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/ShoppingCartPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/ShoppingCartPageUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/HomePageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/HomePageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ProductListPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ProductListPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ShoppingCartPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ShoppingCartPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/BooksProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/BooksProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSuites/AllTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BuyItems.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/final-assignment/src/test/resources/TestSuites/CheckOut.xml">
+  <component name="RunManager" selected="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml">
     <configuration name="D:/final-assignment/src/test/resources/TestSuites/CheckOut.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="final-assignment" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/CheckOut.xml" />
@@ -171,10 +141,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" />
         <item itemvalue="TestNG.D:/final-assignment/src/test/resources/TestSuites/CheckOut.xml" />
         <item itemvalue="TestNG.ShoppingCart" />
         <item itemvalue="TestNG.D:/final-assignment/src/test/resources/TestSuites/ShoppingCart.xml" />
-        <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" />
         <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/Login.xml" />
       </list>
     </recent_temporary>

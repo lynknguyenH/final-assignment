@@ -19,8 +19,7 @@ import org.testng.annotations.Test;
 @Story("Check out")
 public class CheckOut extends BaseTest {
     private WebDriver driver;
-    private String expectedMessage1 = "The product has been added to your shopping cart";
-    private String expectedMessage2 = "Your order has been successfully processed!";
+
     @BeforeMethod(alwaysRun = true)
     @Parameters({"browser"})
     public void setUp(@Optional("CHROME") String browser) {
@@ -33,6 +32,7 @@ public class CheckOut extends BaseTest {
         HomePageObject homePage = PageGenerator.getHomepage(driver);
         homePage.verifyTitle(driver,"Demo Web Shop");
         ProductListPageObject productListPage = homePage.clickDigitalDownloadLink();
+        String expectedMessage1 = "The product has been added to your shopping cart";
         productListPage.addRandomProductToCard(expectedMessage1);
         ShoppingCartPageObject shoppingCartPage = homePage.clickOnShoppingCart();
         WelcomeSignInPageObject welcomeSignInPage = shoppingCartPage.clickCheckOut();
@@ -50,7 +50,8 @@ public class CheckOut extends BaseTest {
         Assert.assertTrue(isCorrectTotal);
         checkOutPage.clickToElement(driver, CheckOutPageUI.CONFIRM_BNT);
         String actualMsg = checkOutPage.getTextElement(driver, CheckOutPageUI.MESSAGE_SUCCESS_LBL);
-        Assert.assertEquals(actualMsg,expectedMessage2);
+        String expectedMessage2 = "Your order has been successfully processed!";
+        Assert.assertEquals(actualMsg, expectedMessage2);
         checkOutPage.clickToElement(driver,CheckOutPageUI.CONTINUE_FINAL_BNT);
         homePage.verifyTitle(driver,"Demo Web Shop");
     }

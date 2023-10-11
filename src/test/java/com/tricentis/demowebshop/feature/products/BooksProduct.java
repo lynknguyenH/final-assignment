@@ -23,7 +23,7 @@ import java.util.List;
 public class BooksProduct extends BaseTest {
 
     private WebDriver driver;
-    private String expectedMessage = "The product has been added to your shopping cart";
+
     @BeforeMethod(alwaysRun = true)
     @Parameters({"browser"})
     public void setUp(@Optional("CHROME") String browser) {
@@ -36,6 +36,7 @@ public class BooksProduct extends BaseTest {
         homePage.verifyTitle(driver,"Demo Web Shop");
         ProductListPageObject productListPage = homePage.clickBookTopMenuLink();
         productListPage.verifyTitle(driver,"Demo Web Shop. Books");
+        String expectedMessage = "The product has been added to your shopping cart";
         List<String> addedProducts = productListPage.addHighestRatingProductToCart(expectedMessage);
         Log.allure("List of product was added to cart: " +addedProducts);
         List<String> productsInCart = productListPage.getProductListInCart();
