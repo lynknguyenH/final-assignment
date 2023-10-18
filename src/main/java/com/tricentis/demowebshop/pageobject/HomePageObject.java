@@ -5,6 +5,7 @@ import com.tricentis.demowebshop.helper.Log;
 import com.tricentis.demowebshop.interfaces.HomePageUI;
 import com.tricentis.demowebshop.interfaces.ProductListPageUI;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 
 public class HomePageObject extends BasePage {
     private WebDriver driver;
@@ -13,6 +14,10 @@ public class HomePageObject extends BasePage {
         this.driver = driver;
     }
 
+    public void verifyTitleOfHomePage(){
+        Log.allure("Verify title of Home Page");
+        Assert.assertEquals(driver.getTitle(), "Demo Web Shop");
+    }
     public LoginPageObject clickLoginLink(){
         Log.allure("Click on Login link on Homepage");
         clickToElement(driver, HomePageUI.LOGIN_LINK);

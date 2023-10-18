@@ -1,0 +1,63 @@
+[18-10-2023 12:22:51.325 INFO com.tricentis.demowebshop.helper.Log] - Start
+[18-10-2023 12:22:51.398 INFO com.tricentis.demowebshop.helper.Log] - Read test data
+[18-10-2023 12:22:52.826 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[18-10-2023 12:23:01.000 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[18-10-2023 12:23:01.036 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[18-10-2023 12:23:01.053 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[18-10-2023 12:23:01.602 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password Abcd@1234
+[18-10-2023 12:23:02.992 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[18-10-2023 12:23:02.993 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[18-10-2023 12:23:02.994 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[18-10-2023 12:23:02.995 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[18-10-2023 12:23:02.995 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[18-10-2023 12:23:03.882 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[18-10-2023 12:23:07.074 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[18-10-2023 12:23:07.077 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[18-10-2023 12:23:07.088 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[18-10-2023 12:23:07.700 INFO com.tricentis.demowebshop.helper.Log] - enter Email  and Password Abcd@1234
+[18-10-2023 12:23:08.473 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[18-10-2023 12:23:08.473 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[18-10-2023 12:23:08.475 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[18-10-2023 12:23:08.477 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[18-10-2023 12:23:08.477 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[18-10-2023 12:23:09.334 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[18-10-2023 12:23:12.888 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[18-10-2023 12:23:12.895 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[18-10-2023 12:23:12.904 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[18-10-2023 12:23:13.550 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password 
+[18-10-2023 12:23:14.341 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[18-10-2023 12:23:14.342 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[18-10-2023 12:23:14.344 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[18-10-2023 12:23:14.345 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[18-10-2023 12:23:14.346 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[18-10-2023 12:23:15.187 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[18-10-2023 12:23:18.239 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[18-10-2023 12:23:18.243 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[18-10-2023 12:23:18.257 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[18-10-2023 12:23:18.790 INFO com.tricentis.demowebshop.helper.Log] - enter Email  and Password 
+[18-10-2023 12:23:19.498 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[18-10-2023 12:23:19.499 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[18-10-2023 12:23:19.500 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[18-10-2023 12:23:19.501 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[18-10-2023 12:23:19.501 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[18-10-2023 12:23:20.470 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[18-10-2023 12:23:23.493 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[18-10-2023 12:23:23.495 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[18-10-2023 12:23:23.508 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[18-10-2023 12:23:24.060 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password 123456
+[18-10-2023 12:23:24.782 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[18-10-2023 12:23:24.783 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[18-10-2023 12:23:24.783 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[18-10-2023 12:23:24.784 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[18-10-2023 12:23:24.785 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[18-10-2023 12:23:25.577 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[18-10-2023 12:23:28.637 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[18-10-2023 12:23:28.640 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[18-10-2023 12:23:28.649 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[18-10-2023 12:23:29.226 INFO com.tricentis.demowebshop.helper.Log] - enter Email 123456 and Password Abcd@1234
+[18-10-2023 12:23:29.523 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[18-10-2023 12:23:29.523 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[18-10-2023 12:23:29.524 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[18-10-2023 12:23:29.525 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[18-10-2023 12:23:29.526 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[18-10-2023 12:23:30.365 INFO com.tricentis.demowebshop.helper.Log] - Finish

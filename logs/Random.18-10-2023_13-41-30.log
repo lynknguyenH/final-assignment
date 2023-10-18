@@ -1,0 +1,17 @@
+[18-10-2023 13:41:30.523 INFO com.tricentis.demowebshop.helper.Log] - Start
+[18-10-2023 13:41:30.661 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[18-10-2023 13:41:38.276 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[18-10-2023 13:41:38.337 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[18-10-2023 13:41:38.343 INFO com.tricentis.demowebshop.helper.Log] - Verify title of Home Page
+[18-10-2023 13:41:38.358 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[18-10-2023 13:41:39.042 INFO com.tricentis.demowebshop.helper.Log] - Verify title of Books subcategory Page
+[18-10-2023 13:41:40.410 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[18-10-2023 13:41:43.995 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 1
+[18-10-2023 13:41:45.269 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[18-10-2023 13:41:48.824 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 2
+[18-10-2023 13:41:50.276 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[18-10-2023 13:41:54.301 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard FAILED test ----------
+[18-10-2023 13:41:54.314 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[18-10-2023 13:41:54.315 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[18-10-2023 13:41:54.318 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[18-10-2023 13:41:55.197 INFO com.tricentis.demowebshop.helper.Log] - Finish

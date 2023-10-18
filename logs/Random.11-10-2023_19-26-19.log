@@ -1,0 +1,120 @@
+[11-10-2023 19:26:19.502 INFO com.tricentis.demowebshop.helper.Log] - Start
+[11-10-2023 19:26:19.607 INFO com.tricentis.demowebshop.helper.Log] - Read test data
+[11-10-2023 19:26:21.724 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:26:37.566 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:26:37.817 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:26:37.899 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[11-10-2023 19:26:38.636 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password Abcd@1234
+[11-10-2023 19:27:10.719 INFO com.tricentis.demowebshop.helper.Log] - Login successfully
+[11-10-2023 19:27:10.757 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:27:10.759 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[11-10-2023 19:27:10.761 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:27:10.762 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:27:10.762 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:27:12.651 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:27:21.209 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:27:21.224 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:27:21.249 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[11-10-2023 19:27:22.921 INFO com.tricentis.demowebshop.helper.Log] - enter Email  and Password Abcd@1234
+[11-10-2023 19:27:25.147 INFO com.tricentis.demowebshop.helper.Log] - Expected Message: No customer account foundActual Message: No customer account found
+[11-10-2023 19:27:25.150 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:27:25.150 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[11-10-2023 19:27:25.152 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:27:25.153 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:27:25.154 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:27:26.486 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:27:34.385 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:27:34.392 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:27:34.407 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[11-10-2023 19:27:35.222 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password 
+[11-10-2023 19:27:37.248 INFO com.tricentis.demowebshop.helper.Log] - Expected Message: The credentials provided are incorrectActual Message: The credentials provided are incorrect
+[11-10-2023 19:27:37.251 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:27:37.252 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[11-10-2023 19:27:37.255 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:27:37.256 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:27:37.257 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:27:38.692 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:27:47.786 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:27:47.807 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:27:47.840 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[11-10-2023 19:27:49.336 INFO com.tricentis.demowebshop.helper.Log] - enter Email  and Password 
+[11-10-2023 19:27:51.078 INFO com.tricentis.demowebshop.helper.Log] - Expected Message: No customer account foundActual Message: No customer account found
+[11-10-2023 19:27:51.081 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:27:51.081 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[11-10-2023 19:27:51.083 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:27:51.084 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:27:51.085 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:27:52.492 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:28:00.605 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:28:00.615 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:28:00.636 INFO com.tricentis.demowebshop.helper.Log] - Click on Login link on Homepage
+[11-10-2023 19:28:02.241 INFO com.tricentis.demowebshop.helper.Log] - enter Email hihaha@abc.def and Password 123456
+[11-10-2023 19:28:04.409 INFO com.tricentis.demowebshop.helper.Log] - Expected Message: The credentials provided are incorrectActual Message: The credentials provided are incorrect
+[11-10-2023 19:28:04.415 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:28:04.419 INFO com.tricentis.demowebshop.helper.Log] - ---------- VerifyLoginForm pass test ----------
+[11-10-2023 19:28:04.421 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:28:04.422 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:28:04.423 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:28:05.913 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:28:13.167 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:28:13.189 INFO com.tricentis.demowebshop.helper.Log] - Test skipped
+[11-10-2023 19:28:13.193 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:28:13.194 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:28:13.198 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:28:13.212 INFO com.tricentis.demowebshop.helper.Log] - Close browser and clean excutable driver:disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=118.0.5993.70)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.2.3', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ca2b947c67f89816f9bb5760f4aef1c4, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.70, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/h1/hz0q6tj17_b...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52064}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52064/devtoo..., se:cdpVersion: 118.0.5993.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ca2b947c67f89816f9bb5760f4aef1c4
+[11-10-2023 19:28:13.553 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:28:27.191 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:28:27.230 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:28:27.303 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[11-10-2023 19:28:31.058 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 19:28:34.733 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 1
+[11-10-2023 19:28:36.203 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 19:28:39.777 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 2
+[11-10-2023 19:28:39.780 INFO com.tricentis.demowebshop.helper.Log] - List of product was added to cart: [Computing and Internet, Health Book]
+[11-10-2023 19:28:40.025 INFO com.tricentis.demowebshop.helper.Log] - List product in cart: [Computing and Internet, Health Book]
+[11-10-2023 19:28:50.035 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:28:50.036 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard pass test ----------
+[11-10-2023 19:28:50.042 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:28:50.043 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:28:50.044 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:28:51.634 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:28:59.733 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:28:59.745 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:29:02.031 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 19:29:05.631 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 1
+[11-10-2023 19:29:07.027 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 19:29:10.646 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 2
+[11-10-2023 19:29:12.386 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 19:29:15.810 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 3
+[11-10-2023 19:29:16.874 INFO com.tricentis.demowebshop.helper.Log] - Number of Items in cart 3
+[11-10-2023 19:29:16.875 INFO com.tricentis.demowebshop.helper.Log] - Take one item out of the cart
+[11-10-2023 19:29:18.723 INFO com.tricentis.demowebshop.helper.Log] - Number of Items in cart after take out one item 2
+[11-10-2023 19:29:18.727 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:29:18.727 INFO com.tricentis.demowebshop.helper.Log] - ---------- decreaseItemsOfShoppingCart pass test ----------
+[11-10-2023 19:29:18.730 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:29:18.731 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:29:18.732 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:29:20.241 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[11-10-2023 19:29:26.670 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[11-10-2023 19:29:26.682 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[11-10-2023 19:29:26.777 INFO com.tricentis.demowebshop.helper.Log] - Click on Digital Download on top menu
+[11-10-2023 19:29:28.711 INFO com.tricentis.demowebshop.helper.Log] - list product: [45, 44, 40]
+[11-10-2023 19:29:30.048 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[11-10-2023 19:29:34.722 INFO com.tricentis.demowebshop.helper.Log] - Click on Checkout Button
+[11-10-2023 19:29:35.845 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[11-10-2023 19:29:38.067 INFO com.tricentis.demowebshop.helper.Log] - Enter information for Billing Address
+[11-10-2023 19:29:51.756 INFO com.tricentis.demowebshop.helper.Log] - Total17.0
+[11-10-2023 19:29:54.236 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[11-10-2023 19:29:54.236 INFO com.tricentis.demowebshop.helper.Log] - ---------- checkOutSuccessfully pass test ----------
+[11-10-2023 19:29:54.238 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[11-10-2023 19:29:54.239 INFO com.tricentis.demowebshop.helper.Log] - OS name = mac os x
+[11-10-2023 19:29:54.240 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = mac os x
+[11-10-2023 19:29:55.786 INFO com.tricentis.demowebshop.helper.Log] - Finish

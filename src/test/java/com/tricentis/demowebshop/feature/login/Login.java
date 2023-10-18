@@ -28,12 +28,12 @@ public class Login extends BaseTest {
         ExcelUtils.setExcelFileSheet("LoginData");
     }
 
-    @Test(dataProvider = "testdata", dataProviderClass = Utilities.class)
+    @Test(dataProvider = "testdata",  dataProviderClass = Utilities.class)
     public void VerifyLoginForm(String STT, String userName, String password, String expectedMessage){
         HomePageObject homePage = PageGenerator.getHomepage(driver);
-        homePage.verifyTitle(driver,"Demo Web Shop");
+        homePage.verifyTitleOfHomePage();
         LoginPageObject loginPage = homePage.clickLoginLink();
-        loginPage.verifyTitle(driver,"Demo Web Shop. Login");
+        loginPage.verifyTitleOfLoginPage();
         loginPage.Login(userName,password);
         loginPage.verifyMessage(expectedMessage);
     }

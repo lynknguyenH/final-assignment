@@ -30,10 +30,9 @@ public class CheckOut extends BaseTest {
     @Test
     public void checkOutSuccessfully(){
         HomePageObject homePage = PageGenerator.getHomepage(driver);
-        homePage.verifyTitle(driver,"Demo Web Shop");
+        homePage.verifyTitleOfHomePage();
         ProductListPageObject productListPage = homePage.clickDigitalDownloadLink();
-        String expectedMessage1 = "The product has been added to your shopping cart";
-        productListPage.addRandomProductToCard(expectedMessage1);
+        productListPage.addRandomProductToCard();
         ShoppingCartPageObject shoppingCartPage = homePage.clickOnShoppingCart();
         WelcomeSignInPageObject welcomeSignInPage = shoppingCartPage.clickCheckOut();
         CheckOutPageObject checkOutPage = welcomeSignInPage.clickCheckOutAsGuest();

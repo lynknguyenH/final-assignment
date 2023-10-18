@@ -5,9 +5,131 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74f1ca32-c4e4-4853-ba5b-24ba82d2d009" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSuites/AllTestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_13-10-24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_13-12-19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_13-13-59.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_13-15-47.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_13-55-59.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_15-11-40.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_15-12-35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_15-28-45.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/Random.13-10-2023_16-00-39.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/Fixed.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/Fixed.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BuyItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/interfaces/LoginUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/interfaces/LoginPageUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/HomePageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/HomePageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/LoginPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/LoginPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ProductListPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ProductListPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ShoppingCartPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/pageobject/ShoppingCartPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/utilities/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/utilities/ExcelUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/utilities/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tricentis/demowebshop/utilities/Utilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/login/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BooksProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/BooksProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/CheckOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/CheckOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tricentis/demowebshop/feature/products/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/~$testdata.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/03e7a8da-8dc2-4f35-b141-360ffd710872-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/06d4b880-1b01-465d-8664-941c4665fa57-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/1d95b2fb-dcbe-4083-afcc-e5adf565ae78-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2b48966c-ba89-49a9-90a6-1e64da161ac9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/3d8d8722-87b3-4910-9a4c-6d6251ceaa74-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/515225bc-ab65-4b36-87f4-c8f9aeb587cb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/58b37320-89f5-43fd-9b36-951bcd114462-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/60e3781e-e5bd-4f24-9f41-742c11785752-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/819c463e-a6de-4097-aa60-a88a14fd3384-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/87e0efbf-394a-4ca3-9c74-da03d11f2f5d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/883a7558-5aca-422f-8e33-9855b0108ee6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/88f791da-029e-4d70-86df-a731d8f96f48-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/8bf7dd02-e1e2-4012-bb86-3a87b51c3ffe-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/94d13a36-88c3-4fa6-a78b-47f622b38f11-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/989072ef-2946-42fa-80b4-b1837892cb02-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/9bcb000f-61c0-4a51-877e-d555198a6d45-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a061cc35-2838-4e65-a8e8-313ec9265670-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a4a2a020-84e1-43f8-9cb3-cafd7e6f2939-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a7dda490-0c95-4056-baf7-5e55c8f5be3f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b7763e89-3fed-4951-b3ce-4f3dce90fc08-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b88f4e33-0372-4ad9-a033-d0320b55abb7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/bb1dacbb-95cd-4f88-bbc7-b770de38917d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/bcad432f-95bd-49bf-a86d-dec64784f781-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c0ca9200-60be-4c16-8f75-eef429ff2c15-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c5c52bff-eb2a-412f-b666-480f691717ac-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c9e21e9a-2e50-4d22-bc87-81d64afd369f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ca6c351d-0513-4a02-ae72-3243a226875e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ce2388fd-c428-4126-84c9-d57061a1547e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d89993e2-ad27-4737-a67b-2d301e26068f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/dc6a593e-8d7e-4c69-a41e-c8bde4d68cad-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/e44b85b7-cdfe-4be5-90ae-b80f8baca1f8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/eea2e4f7-8a2f-4c1b-ae96-eb5e8b459721-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/fcf74a77-d50b-4c6d-845a-639d9727de64-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BasePage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BasePage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BasePage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BasePage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BasePage$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BasePage$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/GlobalConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/common/GlobalConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/BrowserFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/BrowserFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/BrowserNotSupportException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/BrowserNotSupportException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/ChromeDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/ChromeDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/ChromeHeadlessDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/ChromeHeadlessDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/EdgeDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/EdgeDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/FirefoxDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factorybrowser/FirefoxDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factoryenvironment/LocalFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/factoryenvironment/LocalFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/helper/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/helper/Log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/helper/TestNGAppender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/helper/TestNGAppender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/helper/TestNGListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/helper/TestNGListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/CheckOutPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/CheckOutPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/HomePageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/HomePageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/LoginUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/ProductListPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/ProductListPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/ShoppingCartPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/ShoppingCartPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/WelcomeSignInPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/interfaces/WelcomeSignInPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/CheckOutPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/CheckOutPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/HomePageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/HomePageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/LoginPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/LoginPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/PageGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/PageGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ProductListPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ProductListPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ShoppingCartPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/ShoppingCartPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/WelcomeSignInPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/pageobject/WelcomeSignInPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/utilities/ExcelUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/utilities/ExcelUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/utilities/Utilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tricentis/demowebshop/utilities/Utilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Login/Login test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Login/Login test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Login/Login test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Login/Login test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.tricentis.demowebshop.feature.login.Login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.tricentis.demowebshop.feature.login.Login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.tricentis.demowebshop.feature.products.BooksProduct.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.tricentis.demowebshop.feature.products.CheckOut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.tricentis.demowebshop.feature.products.ShoppingCart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Login/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Login/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Login/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Login/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Login/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Login/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Login/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Login/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Login/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Login/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Login/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Login/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Login/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Login/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Login/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/login/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/login/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/BooksProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/BooksProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/CheckOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/CheckOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tricentis/demowebshop/feature/products/ShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/~$testdata.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +173,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/final-assignmen-1&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/linhnguyen/Documents/Programming/final-assignment/src/main/java/org/example/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -63,7 +186,34 @@
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml">
+  <component name="RunManager" selected="TestNG.D:/final-assignment/src/test/resources/TestSuites/CheckOut.xml">
+    <configuration name="BooksProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="final-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tricentis.demowebshop.feature.products.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tricentis.demowebshop.feature.products" />
+      <option name="MAIN_CLASS_NAME" value="com.tricentis.demowebshop.feature.products.BooksProduct" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="final-assignment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/BooksProduct.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="D:/final-assignment/src/test/resources/TestSuites/CheckOut.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="final-assignment" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/CheckOut.xml" />
@@ -74,37 +224,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/final-assignment/src/test/resources/TestSuites/ShoppingCart.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="final-assignment" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/ShoppingCart.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShoppingCart" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="final-assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tricentis.demowebshop.feature.products.*" />
+          <option name="PATTERN" value="com.tricentis.demowebshop.feature.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.tricentis.demowebshop.feature.products" />
-      <option name="MAIN_CLASS_NAME" value="com.tricentis.demowebshop.feature.products.ShoppingCart" />
+      <option name="PACKAGE_NAME" value="com.tricentis.demowebshop.feature.login" />
+      <option name="MAIN_CLASS_NAME" value="com.tricentis.demowebshop.feature.login.Login" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="final-assignment" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/BooksProduct.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -133,19 +263,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.BooksProduct" />
+      <item itemvalue="TestNG.D:/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" />
+      <item itemvalue="TestNG.Login" />
       <item itemvalue="TestNG.D:/final-assignment/src/test/resources/TestSuites/CheckOut.xml" />
-      <item itemvalue="TestNG.D:/final-assignment/src/test/resources/TestSuites/ShoppingCart.xml" />
-      <item itemvalue="TestNG.ShoppingCart" />
-      <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" />
       <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/Login.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" />
         <item itemvalue="TestNG.D:/final-assignment/src/test/resources/TestSuites/CheckOut.xml" />
-        <item itemvalue="TestNG.ShoppingCart" />
-        <item itemvalue="TestNG.D:/final-assignment/src/test/resources/TestSuites/ShoppingCart.xml" />
+        <item itemvalue="TestNG.D:/final-assignment/src/test/resources/TestSuites/BooksProduct.xml" />
+        <item itemvalue="TestNG.BooksProduct" />
         <item itemvalue="TestNG./Users/linhnguyen/Documents/Programming/final-assignment/src/test/resources/TestSuites/Login.xml" />
+        <item itemvalue="TestNG.Login" />
       </list>
     </recent_temporary>
   </component>

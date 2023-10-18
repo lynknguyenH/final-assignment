@@ -30,14 +30,13 @@ public class ShoppingCart extends BaseTest {
     @Test
     public void decreaseItemsOfShoppingCart(){
         HomePageObject homePage = PageGenerator.getHomepage(driver);
-        homePage.verifyTitle(driver,"Demo Web Shop");
+        homePage.verifyTitleOfHomePage();
         homePage.scrollToBottomPage(driver);
         ProductListPageObject productListPage = new ProductListPageObject(driver);
-        String expectedMessage = "The product has been added to your shopping cart";
-        productListPage.addSpecificProductToCart(expectedMessage,"14.1-inch Laptop");
+        productListPage.addSpecificProductToCart("14.1-inch Laptop");
         ShoppingCartPageObject shoppingCartPage = homePage.clickOnShoppingCart();
-        shoppingCartPage.verifyTitle(driver,"Demo Web Shop. Shopping Cart");
-        boolean isQuantityDecrease = shoppingCartPage.decreaseQuantityOfProduct(2);
-        Assert.assertTrue(isQuantityDecrease);
+        shoppingCartPage.verifyTitleOfShoppingCartPage();
+        shoppingCartPage.decreaseQuantityOfProduct();
+        shoppingCartPage.verifyQuantity();
     }
 }

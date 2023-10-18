@@ -1,0 +1,17 @@
+[18-10-2023 13:58:07.847 INFO com.tricentis.demowebshop.helper.Log] - Start
+[18-10-2023 13:58:07.976 INFO com.tricentis.demowebshop.helper.Log] - Start Browser CHROME
+[18-10-2023 13:58:14.950 INFO com.tricentis.demowebshop.helper.Log] - Test start
+[18-10-2023 13:58:14.999 INFO com.tricentis.demowebshop.helper.Log] - Open Home page
+[18-10-2023 13:58:15.004 INFO com.tricentis.demowebshop.helper.Log] - Verify title of Home Page
+[18-10-2023 13:58:15.021 INFO com.tricentis.demowebshop.helper.Log] - Click on Book subcategory on top menu
+[18-10-2023 13:58:15.697 INFO com.tricentis.demowebshop.helper.Log] - Verify title of Books subcategory Page
+[18-10-2023 13:58:17.135 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[18-10-2023 13:58:20.718 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 1
+[18-10-2023 13:58:21.984 INFO com.tricentis.demowebshop.helper.Log] - Verify message when add product to cart. Expect message: The product has been added to your shopping cart Actual message: The product has been added to your shopping cart
+[18-10-2023 13:58:25.594 INFO com.tricentis.demowebshop.helper.Log] - Number of items in cart: 2
+[18-10-2023 13:58:25.820 INFO com.tricentis.demowebshop.helper.Log] - Test success
+[18-10-2023 13:58:25.821 INFO com.tricentis.demowebshop.helper.Log] - ---------- addProductWithHighestRatingToCard pass test ----------
+[18-10-2023 13:58:25.825 INFO com.tricentis.demowebshop.helper.Log] - Close Browser and Driver
+[18-10-2023 13:58:25.826 INFO com.tricentis.demowebshop.helper.Log] - OS name = windows 10
+[18-10-2023 13:58:25.829 INFO com.tricentis.demowebshop.helper.Log] - Driver instance name = windows 10
+[18-10-2023 13:58:26.742 INFO com.tricentis.demowebshop.helper.Log] - Finish

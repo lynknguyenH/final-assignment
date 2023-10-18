@@ -33,16 +33,9 @@ public class BooksProduct extends BaseTest {
     @Test
     public void addProductWithHighestRatingToCard(){
         HomePageObject homePage = PageGenerator.getHomepage(driver);
-        homePage.verifyTitle(driver,"Demo Web Shop");
+        homePage.verifyTitleOfHomePage();
         ProductListPageObject productListPage = homePage.clickBookTopMenuLink();
-        productListPage.verifyTitle(driver,"Demo Web Shop. Books");
-        String expectedMessage = "The product has been added to your shopping cart";
-        List<String> addedProducts = productListPage.addHighestRatingProductToCart(expectedMessage);
-        Log.allure("List of product was added to cart: " +addedProducts);
-        List<String> productsInCart = productListPage.getProductListInCart();
-        Log.allure("List product in cart: " +productsInCart);
-        boolean isProductAdded = productListPage.verifyProductAddedToCart(addedProducts,productsInCart);
-        productListPage.sleepInSecond(10);
-        Assert.assertTrue(isProductAdded);
+        productListPage.verifyTitleOfBooksPage();
+        productListPage.addHighestRatingProductToCart();
     }
 }

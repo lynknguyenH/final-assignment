@@ -23,8 +23,6 @@ public class ExcelUtils {
     public static XSSFSheet excelWSheet;
     public static XSSFCell cell;
     public static XSSFRow row;
-    public static int rowNumber;
-    public static int columnNumber;
 
     @SneakyThrows
     public static void setExcelFileSheet(String sheetName){
@@ -33,7 +31,7 @@ public class ExcelUtils {
         } else if (Platform.getCurrent().toString().contains("WIN")){
             testDataExcelPath = currentDir + "\\src\\test\\resources\\";
         }
-        FileInputStream excelFile = new FileInputStream(testDataExcelPath + testDataExelFileName);
+        FileInputStream excelFile = new FileInputStream("D:\\final-assignment\\src\\test\\resources\\testdata.xlsx");
         excelWBook = new XSSFWorkbook(excelFile);
         excelWSheet =excelWBook.getSheet(sheetName);
     }
